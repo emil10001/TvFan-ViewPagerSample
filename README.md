@@ -6,5 +6,5 @@ done with normal views, and it should be a fairly lightweight strategy. I popula
 with a bunch of images, so those will chew up quite a bit of heap space, but the app should 
 launch quickly, and be generally responsive. 
 
-There are no dependencies, and no permissions used for this. I might do a walk-through of some
-of this code in the future, but it a bit complex. 
+There are no dependencies, and no permissions used for this. [Here's a walk-through of some
+of this code](http://www.recursiverobot.com/post/53884541941/viewpager-inside-a-viewstub-inside-a-tabhost-inside-a).
