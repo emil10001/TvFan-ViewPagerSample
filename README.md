@@ -8,3 +8,5 @@ launch quickly, and be generally responsive.
 
 There are no dependencies, and no permissions used for this. [Here's a walk-through of some
 of this code](http://www.recursiverobot.com/post/53884541941/viewpager-inside-a-viewstub-inside-a-tabhost-inside-a).
+
+By <a href="plus.google.com/u/0/110693175237378228684?rel=author">E John Feig</a>
